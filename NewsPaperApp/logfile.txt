@@ -1,0 +1,2 @@
+LoggedData [Proccess:21162]: bind() failed
+LoggedData [Proccess:21162]: failed to setup socket, exiting
