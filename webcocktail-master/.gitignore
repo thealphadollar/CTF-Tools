@@ -1,0 +1,7 @@
+TODO.md
+Makefile
+*.pyc
+*.swp
+*.vim
+*.json
+*.log
