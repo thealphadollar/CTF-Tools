@@ -1,0 +1,4 @@
+Unknown library function __libc_start_main
+Unknown library function __stack_chk_fail
+WARNING: CHLLCode::appendTypeIdent: declaring type void as int for param1
+WARNING: CHLLCode::appendTypeIdent: declaring type void as int for param1

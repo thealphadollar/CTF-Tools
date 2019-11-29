@@ -1,0 +1,5 @@
+{
+  "__WP_SENTRY_DSN__": "'https://8fb2d5d1749642eface793d3dd93a6d8@sentry-app.postmanlabs.com/22'",
+  "__WP_ENABLE_CRASH_REPORTING__": true,
+  "__WP_RELEASE_CHANNEL__": "'prod'"
+}
