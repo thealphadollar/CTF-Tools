@@ -3130,6 +3130,7 @@ filezilla.xml
 FireFox_Reco
 FirmConnect.%EXT%
 fkadmin
+flag.txt
 flags
 flash
 flash/ZeroClipboard.swf
@@ -3195,6 +3196,8 @@ GEMINI/
 general
 get.php
 getFile.cfm
+getflag.txt
+getflag.php
 getior
 gfx
 git-service
@@ -3840,6 +3843,7 @@ Login.html
 login.jsp
 Login.jsp
 login.php
+login.php.bak
 login.pl
 Login.pl
 Login.py
