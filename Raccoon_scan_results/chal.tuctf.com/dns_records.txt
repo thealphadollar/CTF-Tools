@@ -1,0 +1,7 @@
+[1;32m[v][0;0m Writing DNS query results
+A
+
+	159.89.240.96
+TXT
+
+	"google-site-verification=l9MISZvhzai_IcJ21neXL7RPxCKZnkuXeVnlv6WXYAY"

@@ -1,0 +1,6 @@
+[1;34m[#][0;0m Trying to collect chal.tuctf.com web application data
+[1;32m[v][0;0m Web server detected: [1;32mApache/2.4.38 (Debian)[0;0m
+[1;32m[v][0;0m X-Powered-By header detected: [1;32mPHP/7.2.24[0;0m
+[1;32m[v][0;0m X-Frame-Options header not detected - target might be vulnerable to clickjacking
+[1;32m[v][0;0m Cookie: {SESSIONID} - both secure and HttpOnly flags are not set
+[1;32m[v][0;0m Cookie: {allowed} - both secure and HttpOnly flags are not set

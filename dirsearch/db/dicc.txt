@@ -3198,6 +3198,7 @@ get.php
 getFile.cfm
 getflag.txt
 getflag.php
+getflag.php.bak
 getior
 gfx
 git-service
@@ -4748,6 +4749,8 @@ popup.html
 popup_songs.%EXT%
 PORTAL
 portal
+portal.php
+portal.html
 portal/
 PORTAL2
 portal2

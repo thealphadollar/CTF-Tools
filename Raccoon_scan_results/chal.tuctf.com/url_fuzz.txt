@@ -1,0 +1,5 @@
+[1;34m[#][0;0m Fuzzing URLs
+[1;34m[#][0;0m Reading from list: /home/thealpha/.local/lib/python3.7/site-packages/raccoon_src/wordlists/fuzzlist
+	[1;32m[200][0;0m http://chal.tuctf.com:30000/index.php/login/
+	[1;32m[200][0;0m http://chal.tuctf.com:30000/index.php
+[1;34m[#][0;0m Done fuzzing URLs
