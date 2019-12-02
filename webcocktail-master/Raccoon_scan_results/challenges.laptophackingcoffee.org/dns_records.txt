@@ -1,0 +1,4 @@
+[1;32m[v][0;0m Writing DNS query results
+A
+
+	35.237.149.50
