@@ -1,1 +1,2 @@
 [1;34m[#][0;0m Reading from list: /home/thealpha/.local/lib/python3.7/site-packages/raccoon_src/wordlists/subdomains
+[1;34m[#][0;0m Reading from list: /home/thealpha/.local/lib/python3.7/site-packages/raccoon_src/wordlists/subdomains

@@ -1,10 +1,10 @@
-Starting Nmap 7.80 ( https://nmap.org ) at 2019-12-03 02:48 IST
+Starting Nmap 7.80 ( https://nmap.org ) at 2019-12-03 03:44 IST
 Nmap scan report for challenges.laptophackingcoffee.org (35.237.149.50)
-Host is up (0.00023s latency).
+Host is up (0.00021s latency).
 rDNS record for 35.237.149.50: 50.149.237.35.bc.googleusercontent.com
 Not shown: 999 filtered ports
 PORT    STATE  SERVICE
 113/tcp closed ident
 
-Nmap done: 1 IP address (1 host up) scanned in 10.54 seconds
+Nmap done: 1 IP address (1 host up) scanned in 6.63 seconds
 
