@@ -1,0 +1,6 @@
+302     0B   http://chal.tuctf.com:30007/account
+200     4KB  http://chal.tuctf.com:30007/cart
+200     5KB  http://chal.tuctf.com:30007/login
+302     0B   http://chal.tuctf.com:30007/logout
+200     3KB  http://chal.tuctf.com:30007/signup
+405   325B   http://chal.tuctf.com:30007/upload
